@@ -1,5 +1,5 @@
 const {Wit} = require('node-wit')
-const {accessToken} = require('./config.js')
+const {accessToken} = require('../config.js')
 
 const client = new Wit({
     accessToken
