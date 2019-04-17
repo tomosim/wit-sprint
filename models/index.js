@@ -1,0 +1,1 @@
+module.exports = {getIntent: require('./getIntent'), getWeather: require('./getWeather')}
